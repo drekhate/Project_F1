@@ -1,0 +1,10 @@
+.navbar {
+    background-color: black;
+}
+.navbar h1 {
+    color: white;
+}
+.btn_a .btn {
+    background-color: black;
+    color: white;
+}
